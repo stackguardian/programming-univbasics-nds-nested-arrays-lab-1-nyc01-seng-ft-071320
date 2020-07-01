@@ -28,6 +28,13 @@ def assembled_matrix
   "Avocadoes",
   "Asparagus"
 ]
+CONVENTIONAL_PRODUCE = [
+  "Grapefruit",
+  "Pineapple",
+  "Oranges",
+  "Watermelon",
+  "Eggplant"
+]
 end
 
 def sorted_matrix
